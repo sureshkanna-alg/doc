@@ -1,0 +1,29 @@
+git add
+git commit -m 'message'
+git push origin master
+git status
+git log
+git pull origin master
+git fetch origin master
+git merge
+git merge hotfix
+git config --global user.name Hari
+git config --global user.email hari@javahome.in
+git branch hotfix
+git checkout hotfix
+git branch -d hotfix
+git branch -D hotfix
+git branch
+git branch -a
+git branch -r
+git stash save
+git stash pop
+git cherry-pick 123gm76hdh
+git reset HEAD~1
+git reset --hard HEAD~1
+git revert  123gm76hdh
+git tag RELEASE-0.1.0
+git diff 12abcd7 8uh76jh8
+git init
+git remote add origin URL
+git commit -am 'message'
