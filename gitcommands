@@ -27,3 +27,4 @@ git diff 12abcd7 8uh76jh8
 git init
 git remote add origin URL
 git commit -am 'message'
+git
