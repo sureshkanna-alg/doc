@@ -28,3 +28,4 @@ git init
 git remote add origin URL
 git commit -am 'message'
 git init
+git status
